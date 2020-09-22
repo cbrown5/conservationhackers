@@ -7,8 +7,8 @@ Data science skills are powerful conservation tools, they can help us map and be
 
 For some people there just isn't the time to learn analytical skills for themselves, they might have bigger issues to deal with. That's why we also help connect conservation practitioners with the data scientists that can solve their analysis issues.
 
-### [Get connected through our forum](/forum.html)
+### [Get connected through our forum](forum.html)
 
-### [Check out our blog](/blog.html)
+### [Check out our blog](blog.html)
 
-### [Take some of our courses](/courses.html)
+### [Take some of our courses](courses.html)
