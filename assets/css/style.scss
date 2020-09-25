@@ -2,6 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+
 .menu ul {
   list-style-type: none;
   margin: 0;
@@ -10,10 +11,14 @@
   background-color:#FFFF;
 }
 
+.menu li{
+  width:24%;
+}
+
 .menu li a {
   display: block;
   float:left;
-  font-size:1.1em;
+  font-size:0.8em;
   text-align: center;
 }
 
