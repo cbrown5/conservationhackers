@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-.menu ul {
+header ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -13,13 +13,15 @@
 .menu li a {
   display: block;
   float:left;
-  font-size:1.5em;
+  font-size:1.3em;
   text-align: center;
 }
 
 .menu a{
   width: 100%;
   background:#a39f9e;
+  border-radius: 0;
+  color:#FFFF:
 }
 
 .menu li a:hover{
