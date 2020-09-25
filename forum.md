@@ -1,6 +1,8 @@
 # Conservation Hackers Forum
 
-Participate in our forum via Google groups. You'll just need a google account to sign in. 
+Participate in our forum via Google groups. You'll just need a google account to sign in.
+
+The forum will load below in a second.
 
 <iframe id="forum_embed"
   src="javascript:void(0)"
