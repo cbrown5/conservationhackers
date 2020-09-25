@@ -6,4 +6,4 @@
 
 ### Christina Buelow
 
-[Christina Buelow](https://experts.griffith.edu.au/24225-christina-buelow) is a quantitative ecologist at Griffith University 
+[Christina Buelow](https://experts.griffith.edu.au/24225-christina-buelow) is a quantitative ecologist at Griffith University. 
