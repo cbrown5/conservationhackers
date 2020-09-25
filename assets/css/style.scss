@@ -7,13 +7,19 @@
   margin: 0;
   padding: 0;
   width: 60px;
+  background:#FFFF;
 }
 
 .menu li a {
   display: block;
   float:left;
-  font-size:14;
+  font-size:1.5em;
   text-align: center;
+}
+
+.menu a{
+  width: 100%;
+  background:#a39f9e;
 }
 
 .menu li a:hover{
