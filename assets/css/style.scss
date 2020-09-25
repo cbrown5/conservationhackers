@@ -2,12 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
-header ul {
+.menu ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   width: 60px;
-  background:#FFFF;
+  background-color:#FFFF;
 }
 
 .menu li a {
@@ -21,7 +21,7 @@ header ul {
   width: 100%;
   background:#a39f9e;
   border-radius: 0;
-  color:#FFFF:
+  color:#FFFF;
 }
 
 .menu li a:hover{

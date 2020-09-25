@@ -12,3 +12,5 @@ For some people there just isn't the time to learn analytical skills for themsel
 ### [Check out our blog](blog.html)
 
 ### [Take some of our courses](courses.html)
+
+### [About us](about.html)
