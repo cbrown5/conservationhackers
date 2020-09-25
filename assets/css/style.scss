@@ -12,4 +12,11 @@
 .menu li a {
   display: block;
   float:left;
+  font-size:14;
+  text-align: center;
+}
+
+.menu li a:hover{
+  background-color: #555;
+  color: white;
 }
