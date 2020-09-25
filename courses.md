@@ -4,7 +4,7 @@ Take some of the courses we recommend. These are available free online or join u
 
 ## Upcoming streamed courses
 
-Coming soon... 
+Coming soon...  
 
 ## Recommended online courses
 
