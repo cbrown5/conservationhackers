@@ -1,10 +1,11 @@
 ---
+title: New course on data wrangling
 layout: page
-title: "First post"
 date: 2020-09-25
-categories: news
+category: news
+published: TRUE
 ---
 
-# A first blog post
+# New course on data wrangling
 
-Just getting this setup...
+Our next course is on October 22nd. More details [here](https://app.secure.griffith.edu.au/griffithpay/data-wrangling-of-ecological-data.html)
