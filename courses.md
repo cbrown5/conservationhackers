@@ -20,9 +20,8 @@ Unfortunately we won't have time in the course to help attendees install R or it
 
 We'll work assuming this basic knowledge and teach you how to: identify and correct common mistakes in fish survey data, plot the data, join survey level data to site level data and summarize the data to calculate some important ecological indicators of fishing and climate pressures.
 
-The course will be held on October 22nd from 9-12 pm.
+The course will be held on October 22nd from 9-12 pm AEST.
 
 ## Recommended online courses
 
 [Cleaning ecological survey data for conservation scientists](http://www.seascapemodels.org/RLS-data-prep-course/)
-m
