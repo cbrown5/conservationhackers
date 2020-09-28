@@ -7,7 +7,7 @@ To do this, go to our [github site](https://github.com/cbrown5/conservationhacke
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="conservationhackers/{{ post.url }}">{{ post.title }} {{post.date}}</a>
+      <a href="conservationhackers{{ post.url }}">{{ post.title }} {{post.date}}</a>
     </li>
   {% endfor %}
 </ul>
