@@ -18,7 +18,7 @@ The course is taught by Dr Chris Brown and Dr Christina Buelow. Chris is Senior 
 
 Christina is a quantitative ecologist at Griffith University and is experienced in using R for data cleaning, GIS, statistical modelling and running applications on the cloud.
 
-**The first course is 22nd from 9-12 pm AEST.**
+**The first course is 22nd October from 9-12 pm AEST.**
 
 Cost is $75.00 general/$50.00 student (GST inclusive), developing country rates also available.
 
@@ -30,7 +30,7 @@ The course is based on Chris and Christina's online [course notes that are avail
 
 This event will be held on Microsoft Teams, an online platform that allows video livestream and interactive chat functions/screen sharing.
 
-A link to Microsoft Teams event and the coure notes will be emailed to participants prior to the course date.
+A link to Microsoft Teams event and the course notes will be emailed to participants prior to the course date.
 
 Any questions, please contact: conservationhackers@gmail.com
 
