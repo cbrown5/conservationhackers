@@ -1,6 +1,6 @@
 ---
 title: New course on data wrangling
-layout: page
+layout: default
 date: 2020-09-25
 category: news
 published: TRUE
