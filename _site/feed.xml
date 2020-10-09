@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-09T22:11:38+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Conservation Hackers</title><subtitle>Helping programmers and conservation scientists work together to save biodiversity</subtitle><entry><title type="html">New course on data wrangling</title><link href="http://localhost:4000/news/2020/09/25/first-post.html" rel="alternate" type="text/html" title="New course on data wrangling" /><published>2020-09-25T00:00:00+10:00</published><updated>2020-09-25T00:00:00+10:00</updated><id>http://localhost:4000/news/2020/09/25/first-post</id><content type="html" xml:base="http://localhost:4000/news/2020/09/25/first-post.html">&lt;h1 id=&quot;new-course-on-data-wrangling&quot;&gt;New course on data wrangling&lt;/h1&gt;
+
+&lt;p&gt;We’re running a short online introduction to data preparation and graphing. The course will cover the basics of pre-processing data, including common data wrangling routines. We will use real world data from the Reef Life Survey to demonstrate these tools and calculate some common summary statistics.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://app.secure.griffith.edu.au/griffithpay/data-wrangling-of-ecological-data.html&quot;&gt;REGISTER HERE&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The course is suitable for people who have used R before, but who want to learn more about how to use R to make data pre-processing and graphing more efficient, repeatable and error free.&lt;/p&gt;
+
+&lt;p&gt;The course is taught by Dr Chris Brown and Dr Christina Buelow. Chris is Senior Lecturer at Griffith University and has a decade of experience in teaching research students and professionals how to use R for data analysis and graphs. He has taught hundreds of students across both in person and online courses.&lt;/p&gt;
+
+&lt;p&gt;Christina is a quantitative ecologist at Griffith University and is experienced in using R for data cleaning, GIS, statistical modelling and running applications on the cloud.&lt;/p&gt;
+
+&lt;p&gt;The first course is 22nd October from 9-12 pm AEST.&lt;/p&gt;
+
+&lt;p&gt;Cost is $75.00 general/$50.00 student (GST inclusive). The course fees are used to fund the Conservation Hackers project.&lt;/p&gt;
+
+&lt;p&gt;You will learn the basics of how to organize projects in R, how to use popular data wrangling tools like dplyr and tidyr to correct errors in data and join different dataframes. You will also learn about how to calculate basic statistical summaries and how the ggplot package can be used to make publication quality plots efficiently.&lt;/p&gt;
+
+&lt;p&gt;This is a course for students and professionals with some R experience. At a minimum attendees should have R and R studio installed on their computers and know their way around R’s console (e.g. how to install packages, read in data and make simple plots). Attendees should have installed R and the necessary packages before the course.&lt;/p&gt;
+
+&lt;p&gt;The course is based on Chris and Christina’s online course notes that are available free to download. Join us online if you want to get the benefits of person to person tuition.&lt;/p&gt;
+
+&lt;p&gt;This event will be held on Microsoft Teams, an online platform that allows video livestream and interactive chat functions/screen sharing.&lt;/p&gt;
+
+&lt;p&gt;A link to Microsoft Teams event and the course notes will be emailed to participants prior to the course date.&lt;/p&gt;
+
+&lt;p&gt;Any questions, please contact: conservationhackers@gmail.com&lt;/p&gt;</content><author><name></name></author><category term="news" /><summary type="html">New course on data wrangling</summary></entry></feed>

@@ -1,4 +1,7 @@
-# Conservation Hackers Courses
+---
+title: Conservation Hackers Courses
+layout: single
+---
 
 Take some of the courses we recommend. These are available free online or join us for our next streamed course.
 

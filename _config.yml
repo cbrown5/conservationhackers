@@ -1,6 +1,15 @@
 title: Conservation Hackers
-logo: /assets/img/logo.png
-description: Hacking to help nature
+description: "Helping programmers and conservation scientists work together to save biodiversity"
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dark"
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      show_date: true
+search: true
