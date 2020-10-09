@@ -2,8 +2,10 @@ title: Conservation Hackers
 description: "Helping programmers and conservation scientists work together to save biodiversity"
 show_downloads: false
 google_analytics:
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.20.2"
 minimal_mistakes_skin: "dark"
+plugins:
+  - jekyll-include-cache
 defaults:
   # _posts
   - scope:
