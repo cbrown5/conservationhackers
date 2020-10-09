@@ -1,6 +1,6 @@
 # Conservation Hackers TODO
 
-
+Add header image? 
 Use splash layout on homepage (need images )
 https://mmistakes.github.io/minimal-mistakes/docs/layouts/#home-page
 
