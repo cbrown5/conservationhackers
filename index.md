@@ -8,14 +8,14 @@ feature_row:
     url: "/courses.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: assets/images/mangrove.jpg
+  - image_path: assets/images/mangrove.JPG
     alt: "Forum"
     title: "Forum"
     excerpt: "Get help, or help others, with conservation programming"
     url: "/forum.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: assets/images/frogmouth.jpg
+  - image_path: assets/images/frogmouth.JPG
     title: "Blog"
     excerpt: "Learn more on our community blog"
     url: "/blog.html"
