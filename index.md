@@ -11,8 +11,8 @@ feature_row:
   - image_path: assets/images/mangrove.JPG
     alt: "Forum"
     title: "Forum"
-    excerpt: "Get help, or help others, with conservation programming"
-    url: "/forum.html"
+    excerpt: "Get help, or help others, with conservation programming. Visit the forum on Google Groups"
+    url: "https://groups.google.com/forum/embed/?place=forum/conservationhackers"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: assets/images/frogmouth.JPG
