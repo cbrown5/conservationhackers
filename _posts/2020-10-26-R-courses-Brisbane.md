@@ -1,6 +1,7 @@
 ---
 title: R workshops in Brisbane 2021
 layout: default
+date: 2020-10-26
 category: rstats
 published: TRUE
 ---
