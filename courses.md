@@ -15,4 +15,4 @@ None currently. Stay tuned.
 
 [Current approaches in Species Distribution Modelling](https://www.seascapemodels.org/SDM-fish-course-notes/)
 
-[Data wrangling for GIS and spatial analysis](https://www.seascapemodels.org/data/data-wrangling-spatial-course.html)
+[Data wrangling for GIS and spatial analysis](https://www.seascapemodels.org/Advanced-spatial-analysis-2021/Advanced-spatial-analysis-2021.html)
