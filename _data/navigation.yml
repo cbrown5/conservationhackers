@@ -1,5 +1,7 @@
 main:
   - title: "Blog"
     url: blog.html
+  - title: "Vlog"
+      url: https://www.youtube.com/channel/UCSH4ctGD-waPSI_4w6PlTBg/featured
   - title: "About"
     url: about.html
