@@ -1,9 +1,5 @@
 main:
-  - title: "Forum"
-    url: forum.html
   - title: "Blog"
     url: blog.html
-  - title: "Courses"
-    url: courses.html
   - title: "About"
     url: about.html
